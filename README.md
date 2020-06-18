@@ -1,1 +1,3 @@
 # Coming soon...
+title: Go to page
+redirect_to: https://dbnomics-stata.github.io/dbnomics/
